@@ -1,0 +1,8 @@
+mat-toolbar {
+  mat-toolbar-row {
+    &:nth-of-type(2) {
+      display: flex;
+      column-gap: 8px;
+    }
+  }
+}
